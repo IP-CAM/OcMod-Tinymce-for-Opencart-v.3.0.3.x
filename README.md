@@ -21,7 +21,7 @@ Languages:
 
 ## Links
 - [Extension on Forum] (https://forum.opencart.name/resources/tinymce-community.107/)
-- 
+
 ------------
 
 # TinyMCE 5 Community
